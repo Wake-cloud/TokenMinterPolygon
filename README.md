@@ -3,7 +3,8 @@ A Token Minter That Works on the Polygon Chain
 You can start using it by forking it or downloading the zip.
 You then have to 
 $cd frontend 
-$npm install 
+$npm install ethers web3modal react react-dom
+
 
 then :
 $cd ..
